@@ -7,5 +7,5 @@ A.DQ.prototype={}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(A.DQ,B.B)})()
 B.ia(b.typeUniverse,JSON.parse("{}"))
-B.PS(b.typeUniverse,JSON.parse('{"DQ":1}'));(function constants(){C.QF=new A.DQ()})()}
-$__dart_deferred_initializers__["bhX4PZel8uS9CLK2sQg+WfhSBQk="] = $__dart_deferred_initializers__.current
+B.PT(b.typeUniverse,JSON.parse('{"DQ":1}'));(function constants(){C.QF=new A.DQ()})()}
+$__dart_deferred_initializers__["OozRRDDgeDkSmlyEBdrBqwAY+Uk="] = $__dart_deferred_initializers__.current
