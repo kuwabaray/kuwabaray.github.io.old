@@ -498,7 +498,7 @@ B.mn("location")
 v=B.bq(u,F.jz(B.a([o,new B.iL(new B.ax(0,s*0.015,0,0),w,u),new B.iL(new B.ax(0,s*0.035,0,0),B.k7(B.a([x,n,A.XC(new A.jq(t,N.ati(),u),C.i,v,!0,t),A.XD(C.G,B.fK("images/linkedin.png",C.a8),!1,"LinkedIn","https://www.linkedin.com/in/ykuwabara")],p),C.a_,C.dU,C.ba),u)],p),C.f7,C.a0,C.ac),u,u,u,r,u,u,q)
 n=r*0.001
 n=A.asW(n,n)
-return B.CB(B.h5(C.az,B.a([v,B.wR(r*0,B.bq(u,B.afw(B.ar5(B.bq(u,u,B.ay(C.d.ac(25.5),0,0,0),u,u,u,u,u,u),n),C.X),u,u,u,r*0.14,u,u,q*0.999),u,u,q*0.006,u,u,u)],p),C.ao),u,u)}}
+return B.CB(B.h5(C.az,B.a([v,B.wR(r*0,B.bq(u,B.afw(B.ar5(B.bq(u,u,B.ay(0,0,0,0),u,u,u,u,u,u),n),C.X),u,u,u,r*0.14,u,u,q*0.999),u,u,q*0.006,u,u,u)],p),C.ao),u,u)}}
 var z=a.updateTypes(["~()","jq(af,bB<G>,bB<G>)","i(af,bB<G>,bB<G>,i)"])
 A.a8g.prototype={
 $0(){},
@@ -605,7 +605,7 @@ $1(d){var x=this.a
 x.aa(new A.XE(x,d))},
 $S:18}
 A.XE.prototype={
-$0(){var x=this.b?B.ay(C.d.ac(25.5),0,0,0):C.G
+$0(){var x=this.b?B.ay(C.d.ad(25.5),0,0,0):C.G
 this.a.d=x},
 $S:0}
 A.XG.prototype={
@@ -678,4 +678,4 @@ return{D:x("mv"),k:x("aK"),x:x("eT"),G:x("m"),d:x("aQ"),H:x("pH"),A:x("q<hL>"),p
 D.CM=new B.ax(8,0,8,0)
 D.D6=new B.jL(60981)
 D.JS=new B.O(64,36)})()}
-$__dart_deferred_initializers__["NFyvBF+ACAeATjmpe9a3cAML7Mg="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["Z/9rYo6K7upEm3h/1XcdLxTxZDQ="] = $__dart_deferred_initializers__.current
